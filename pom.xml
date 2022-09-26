@@ -6,7 +6,9 @@
 	<groupId>org.springframework</groupId>
 	<artifactId>gs-maven</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1.0</version>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>harini2599</name>
+	<description>Demo project</description>
 
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
