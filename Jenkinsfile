@@ -1,6 +1,6 @@
 node {
 	
-    def application = "devopsexample"
+    def application = "jenkins-docker"
     
     //Its mandatory to change the Docker Hub Account ID after this Repo is forked by an other person
     def dockerhubaccountid = "harini2599"
